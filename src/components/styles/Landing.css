@@ -198,6 +198,15 @@
   color: var(--accentColor);
   margin: 0;
 }
+.landing-short-intro {
+  color: var(--accentColor);
+  font-size: 16px;
+  max-width: 400px;
+  margin-top: 10px;
+  opacity: 0.8;
+  font-weight: 300;
+  letter-spacing: 1px;
+}
 .landing-info h2 {
   margin: 0;
   margin-top: -20px;

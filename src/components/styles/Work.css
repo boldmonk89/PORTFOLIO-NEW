@@ -85,6 +85,17 @@
 .work-info > p {
   width: 90%;
 }
+.work-badge {
+  background-color: var(--accentColor);
+  color: var(--backgroundColor);
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-size: 10px;
+  font-weight: 600;
+  text-transform: uppercase;
+  margin-top: 5px;
+  display: inline-block;
+}
 .work-image {
   display: flex;
   width: 100%;

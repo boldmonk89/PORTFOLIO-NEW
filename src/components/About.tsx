@@ -6,9 +6,7 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic quis
-          dolores numquam iusto Ratione earum ducimus autem id iure pariatur
-          dolorum quae maiores.
+          I am Tejas Raghav, a B.Tech CSE (AI/ML) student passionate about building real-world digital products. I focus on AI tools, web platforms, and solving practical problems through technology.
         </p>
       </div>
     </div>
