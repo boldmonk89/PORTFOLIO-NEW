@@ -47,7 +47,7 @@ const Contact = () => {
               Designed and Developed <br /> by <span>Tejas Raghav</span>
             </h2>
             <h5>
-              <MdCopyright /> 2024
+              <MdCopyright />
             </h5>
           </div>
         </div>
